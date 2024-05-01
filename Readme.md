@@ -1,7 +1,7 @@
 ![logo](agustin-wisky-github.png)
-### Odoo Developer | DevOps Engineer | Software Solution Architect
-📍 **Patagonia, Argentina**
+### Odoo Developer | DevOps Engineer | Software Solution Architect <a href="https://www.linkedin.com/in/agustin-wisky" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
 
+📍 **Patagonia, Argentina**
 ---
 
 From the moment I wrote my first line of code at the age of 12, I was hooked on the transformative power of technology. With a career spanning over a decade, I've developed a robust expertise in Odoo development and DevOps engineering. I've led projects that refined deployment processes and enhanced system reliability across multiple continents, from Latin America to Europe and the Middle East.
@@ -20,6 +20,6 @@ I find balance in nature, where trail running, climbing, and exploring the rugge
 ## Let's Connect!
 If you're passionate about pushing the boundaries of technology and believe in harnessing the power of collaborative innovation, I'd love to connect. Together, we can drive growth and create solutions that make a difference.
 
-- [Email](mailto:agustinwisky@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/agustin-wisky)
+<a href="https://www.linkedin.com/in/agustin-wisky" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
+
 
