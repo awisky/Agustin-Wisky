@@ -1,5 +1,4 @@
 ![logo](agustin-wisky-github.png)
-# Agustín Wisky
 ### Odoo Developer | DevOps Engineer | Software Solution Architect
 📍 **Patagonia, Argentina**
 
